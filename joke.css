@@ -1,0 +1,42 @@
+.jokebox {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .title {
+    font-size: 24px;
+  }
+  
+  .homelink {
+    font-size: 15px;
+    color: lightblue;
+  
+    &:hover {
+      color:blue;
+    }
+  }
+  
+  .innerbox {
+    border: 2px solid brown;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: beige;
+    margin-top: 20px;
+  }
+  
+  .joketext {
+    font-size: 20px;
+    color: black;
+  }
+  
+  .nextButton {
+    
+    background-color: black;
+    color: yellow;
+    text-align: center;
+  
+    &:hover {
+      background-color: darkcyan;
+    }
+  }
+  
